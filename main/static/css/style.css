@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    width: 950px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 10px;
+    background-color: #ecdfc8;
+    margin-top: 10px;
+}
+
+h4 {
+    background-color: #ecb390;
+    display: block;
+    width: 50%;
+    height: 35px;
+    margin: 0 auto;
+    margin-top: 10px;
+    text-align: center;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: rgb(136, 134, 134) 2px 2px;
+    font-size: large;
+}
+#container {
+    background-color: #fcf8e8;
+    height: 500px;
+    width: 970px;
+    margin: 0 auto;
+
+}
+.gallifrey {
+    background-color: #c3edea;
+    display: inline-block;
+    height: 30px;
+    width: 300px;
+    border: black;
+    padding: 15px;
+    margin: 10px;
+}
+
+.gallifrey img {
+    width: 45%;
+    margin: 0 auto;
+    display: block;
+}
+
+.gallifrey h4 {
+
+}
